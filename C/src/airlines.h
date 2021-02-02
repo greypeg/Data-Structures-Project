@@ -4,9 +4,9 @@
  * Header file for cs-240b project 2020 (phase B) *
  * with the structures and function prototypes    *
  *                                                *
- * @Author:     Karampelas Apostolos              *
- * @Version:    23-04-2020                        *
- * @email:      apskar@csd.uoc.gr                 *
+ *              				  *
+ *                     				  *
+ * 				                  *
  *                                                *
  **************************************************/
 

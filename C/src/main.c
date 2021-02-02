@@ -3,9 +3,9 @@
  * file:        main.c                             *
  * Main file for cs-240b project 2020 (phase B)    *
  *                                                 *
- * @Author:     Apostolos Karampelas               *
- * @Version:    29-04-2020                         *
- * @email:      apskar@csd.uoc.gr                  *
+ * 					           *
+ *                			           *
+ *             					   *
  *                                                 *
  ***************************************************/
 

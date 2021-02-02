@@ -3,9 +3,9 @@
  * file:        airlines.c                         *
  * Implementation of airlines.h                    *
  *                                                 *
- * @Author:     Apostolos Karampelas               *
- * @Version:    23-04-2020                         *
- * @email:      apskar@csd.uoc.gr                  *
+ *         					   *
+ *                        		           *
+ *               				   *
  *                                                 *
  ***************************************************/
 
